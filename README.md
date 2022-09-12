@@ -9,8 +9,6 @@
 
 _Create a GitHub Action and use it in a workflow._
 
-Drink more beer 🧙‍♂️
-
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
@@ -233,7 +231,7 @@ _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Here's a 🧙‍♂️ recap of all the tasks you've accomplished in your repository:
 
 - You've created your first GitHub Actions workflow file.
 - You learned where to make your workflow file.
